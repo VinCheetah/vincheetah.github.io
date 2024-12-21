@@ -190,6 +190,12 @@ footer a:hover {
     border-radius: 8px;
 }
 
+.work h1 {
+    font-size: 2em;
+    text-align: center;
+    color: #007BFF;
+}
+
 .work h2 {
     font-size: 1.5em;
     color: #333;
