@@ -174,3 +174,74 @@ footer a:hover {
         margin: 0 10px;
     }
 }
+
+/* Styles for the Works page */
+h1 {
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+li {
+    margin: 15px 0;
+    font-size: 1.1em;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+
+/* General styling for the works page */
+h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Styling for each work */
+.work {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+.work h2 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.work p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.work a {
+    text-decoration: none;
+    color: #007BFF;
+    margin-right: 10px;
+}
+
+.work a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+.work strong {
+    font-weight: bold;
+}
